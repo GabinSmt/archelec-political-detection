@@ -5,6 +5,7 @@ This project applies NLP techniques to predict the political affiliation of cand
 
 ## Repository Structure
 
+```
 archelec-political-detection/
 ├── data/
 │   ├── raw/text_files/     # OCR transcriptions (not versioned)
@@ -15,6 +16,7 @@ archelec-political-detection/
 │   └── figures/            # Figures used in the report
 ├── requirements.txt
 └── README.md
+```
 
 ## Data
 - **Text files** : OCR transcriptions from [Teklia GitLab](https://gitlab.teklia.com/ckermorvant/arkindex_archelec)
